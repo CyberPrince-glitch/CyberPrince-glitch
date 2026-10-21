@@ -167,12 +167,12 @@
     <img src="https://img.shields.io/badge/%F0%9F%94%8C%20View%20All%20Projects-8A2BE2?style=for-the-badge"/>
   </a>
   &nbsp;
-  <a href="https://github.com/CyberPrince-glitch/ShopnoAI">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=CyberPrince-glitch&repo=ShopnoAI&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00c4cc&icon_color=8A2BE2&text_color=e2e8f0"/>
+  <a href="https://github.com/CyberPrince-glitch/CyberDM">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=CyberPrince-glitch&repo=CyberDM&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00c4cc&icon_color=8A2BE2&text_color=e2e8f0"/>
   </a>
   &nbsp;
-  <a href="https://github.com/CyberPrince-glitch/Shopno-Browser-Agent">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=CyberPrince-glitch&repo=Shopno-Browser-Agent&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00c4cc&icon_color=8A2BE2&text_color=e2e8f0"/>
+  <a href="https://github.com/CyberPrince-glitch/Shopno-Portable-LLM">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=CyberPrince-glitch&repo=Shopno-Portable-LLM&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00c4cc&icon_color=8A2BE2&text_color=e2e8f0"/>
   </a>
 </div>
 
